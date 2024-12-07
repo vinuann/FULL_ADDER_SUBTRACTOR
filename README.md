@@ -38,18 +38,41 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+![Screenshot 2024-12-07 222225](https://github.com/user-attachments/assets/e1f9710e-bb80-44cc-851f-5d01965832af)
+
+
+
 **Procedure**
 
-Write the detailed procedure here
+1.Open Quartus II and create a new project.
+
+2.Use schematic design entry to draw the full adder circuit and full subractor circuit.
+
+3.The circuit consists of XOR, AND, and OR gates.
+
+4.Compile the design, verify its functionality through simulation.
+
+5.Implement the design on the target device and program it.
 
 **Program:**
 
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
+![Screenshot 2024-12-07 222311](https://github.com/user-attachments/assets/977afdb1-0820-4244-a4ff-018373b065df)
+
+
 **RTL Schematic**
 
+
+![Screenshot 2024-12-07 222335](https://github.com/user-attachments/assets/b5097d03-9b54-4d6c-bf8b-a1b7df354e74)
+
 **Output Timing Waveform**
+
+![Screenshot 2024-12-07 222414](https://github.com/user-attachments/assets/cbeb7b68-8cf3-4f73-bad1-7048de4e4f1f)
+
+
+
 
 **Result:**
 
